@@ -1,8 +1,11 @@
 # 현재 테스트 중입니다!
+<center>
 ![center_image](https://user-images.githubusercontent.com/62188180/105588933-ff250c00-5dd4-11eb-8ed4-ccf7e424b1ed.png)   
 ### Hi there 👋
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ani-Gil)](https://github.com/anuraghazra/github-readme-stats)   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ani-Gil&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   
+
+
 <p>
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white"/>
@@ -23,3 +26,4 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 </p>
+</center>
