@@ -30,7 +30,7 @@
 
 ### <p align="center">Blogs and Social Pages</p>
 <p align="center">
-  <a href="https://mirror.anigil.com"><img src="https://img.shields.io/badge/AniGil-Linux-Archive-3693F3?style=flat-square&logo=iCloud&logoColor=white"/></a>
+  <a href="https://mirror.anigil.com"><img src="https://img.shields.io/badge/AniGil Linux Archive-3693F3?style=flat-square&logo=iCloud&logoColor=white"/></a>
   <a href="https://blog.anigil.com"><img src="https://img.shields.io/badge/Blog(Tistory)-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
   <a href="https://www.facebook.com/limsiwooo"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
   <a href="https://twitter.com/AniGil_Mirror"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
