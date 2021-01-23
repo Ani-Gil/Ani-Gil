@@ -2,9 +2,9 @@
 ![center_image](https://user-images.githubusercontent.com/62188180/105588933-ff250c00-5dd4-11eb-8ed4-ccf7e424b1ed.png)   
 
 ### Hi there 👋
-<
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+  <a href="https://aws.amazon.com"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=Cisco&logoColor=white"/>
