@@ -31,12 +31,12 @@
 
 ### <p align="center">Blogs and Social Pages</p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Blog(Tistory)-FF5722?style=flat-square&logo=Blogger&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kakao Profile Chat-FFCD00?style=flat-square&logo=Kakao&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=Discord&logoColor=white"/>
+  <a href="https://mirror.anigil.com"><img src="https://img.shields.io/badge/AniGil-Linux-Archive-3693F3?style=flat-square&logo=iCloud&logoColor=white"/></a>
+  <a href="https://blog.anigil.com"><img src="https://img.shields.io/badge/Blog(Tistory)-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
+  <a href="https://www.facebook.com/limsiwooo"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+  <a href="https://twitter.com/AniGil_Mirror"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
+  <a href="https://www.instagram.com/siw00_lim"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="https://open.kakao.com/me/anigil"><img src="https://img.shields.io/badge/Kakao Profile Chat-FFCD00?style=flat-square&logo=Kakao&logoColor=white"/></a>
 </p>
 
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Ani-Gil" alt="Anurag&#39;s github stats"></a></p>
