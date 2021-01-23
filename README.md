@@ -3,5 +3,6 @@
 ### Hi there 👋
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ani-Gil)](https://github.com/anuraghazra/github-readme-stats)   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ani-Gil&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=Python&logoColor=white"/></a>
