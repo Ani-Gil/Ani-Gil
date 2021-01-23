@@ -3,7 +3,7 @@
 
 ## <p align="center">The technology and programs I use.</p>
 
-<p align="center">
+<p style="font-size:20px; align="center">
   <a href="https://aws.amazon.com"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
   <a href="https://www.vmware.com"><img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white"/></a>
   <a href="https://visualstudio.microsoft.com"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
