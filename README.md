@@ -2,7 +2,7 @@
 ![center_image](https://user-images.githubusercontent.com/62188180/105588933-ff250c00-5dd4-11eb-8ed4-ccf7e424b1ed.png)   
 
 <p align="center">
-  ### The technology and programs I use.
+  <font size=12>The technology and programs I use.</font>
 </p>
 
 <p align="center">
