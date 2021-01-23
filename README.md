@@ -1,7 +1,7 @@
 # 현재 테스트 중입니다!
 ![center_image](https://user-images.githubusercontent.com/62188180/105588933-ff250c00-5dd4-11eb-8ed4-ccf7e424b1ed.png)   
 
-# <center>The technology and programs I use.</center>
+### <center>The technology and programs I use.</center>
 
 <p align="center">
   <a href="https://aws.amazon.com"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
