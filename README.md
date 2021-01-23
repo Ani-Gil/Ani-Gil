@@ -1,5 +1,10 @@
 ![center_image](https://user-images.githubusercontent.com/62188180/105588933-ff250c00-5dd4-11eb-8ed4-ccf7e424b1ed.png)   
 
+### My Introduce!
+<p align="center"> 안녕하세요! 현재 광주금파공업고등학교의 3학년으로 재학중인 임시우라고 합니다.<br>
+  현재 IT네트워크시스템 및 클라우드컴퓨팅 기능반(동아리)팀장을 맏고 있습니다.<p>
+
+
 ### <p align="center">The technology and programs I use 💻</p>
 <p align="center">
   <a href="https://aws.amazon.com"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
