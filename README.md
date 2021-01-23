@@ -4,7 +4,7 @@
 ### <p align="center">😁 My Introduce! 😍</p>
 <p align="center"> 안녕하세요! 현재 광주금파공업고등학교의 3학년으로 재학중인 임시우라고 합니다.<br>
   현재 IT네트워크시스템 및 클라우드컴퓨팅 기능반(동아리)팀장을 맏고 있습니다. 또한 <a href="https://mirror.anigil.com">리눅스 미러사이트</a>를 운영중입니다!<br>
-  미러사이트 관련한 내용은 관련 레포나 질문이 있다면 Facebook, Twitter로 연락주시면 언제든지 답변드리겠습니다!<br><br>E-Mail : dlatldn426@gmail.com
+  미러사이트 관련한 내용은 관련 레포나 질문이 있다면 Facebook, Twitter로 연락주시면 언제든지 답변드리겠습니다!<br>E-Mail : dlatldn426@gmail.com<br><br>
 <p>
 
 ### <p align="center">The technology and programs I use 💻</p>
@@ -21,6 +21,7 @@
   <a href="https://www.kali.org"><img src="https://img.shields.io/badge/Kali Linux-557C94?style=flat-square&logo=Kali Linux&logoColor=white"/></a>
   <a href="https://archlinux.org"><img src="https://img.shields.io/badge/Arch Linux-1793D1?style=flat-square&logo=Arch Linux&logoColor=white"/></a>
   <a href="https://mxlinux.org"><img src="https://img.shields.io/badge/MX Linux-000000?style=flat-square&logo=MX Linux&logoColor=white"/></a>
+  <a href="https://www.microsoft.com"><img src="https://img.shields.io/badge/Windows Server-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
