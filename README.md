@@ -4,7 +4,7 @@
 ### <p align="center">😁 My Introduce! 😍</p>
 <p align="center"> 안녕하세요! 현재 광주금파공업고등학교의 3학년으로 재학중인 임시우라고 합니다.<br>
   현재 IT네트워크시스템 및 클라우드컴퓨팅 기능반(동아리)팀장을 맏고 있습니다. 또한 <a href="https://mirror.anigil.com">리눅스 미러사이트</a>를 운영중입니다!<br>
-  미러사이트 관련한 내용은 관련 레포나 질문이 있다면 Facebook, Twitter로 연락주시면 언제든지 답변드리겠습니다!<br><br><br>
+  미러사이트 관련한 내용은 관련 레포나 질문이 있다면 Facebook, Twitter로 연락주시면 언제든지 답변드리겠습니다!<br><br>
 <p>
 
 ### <p align="center">The technology and programs I use 💻</p>
@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/><br><br><br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/><br><br>
 </p>
 
 ### <p align="center">Blogs and Social Pages</p>
@@ -36,8 +36,8 @@
   <a href="https://www.facebook.com/limsiwooo"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
   <a href="https://twitter.com/AniGil_Mirror"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
   <a href="https://www.instagram.com/siw00_lim"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="https://open.kakao.com/me/anigil"><img src="https://img.shields.io/badge/Kakao Profile Chat-FFCD00?style=flat-square&logo=Kakao&logoColor=white"/></a><br><br><br>
+  <a href="https://open.kakao.com/me/anigil"><img src="https://img.shields.io/badge/Kakao Profile Chat-FFCD00?style=flat-square&logo=Kakao&logoColor=white"/></a><br><br>
 </p>
-<hr>
+<hr><br><br>
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Ani-Gil" alt="Anurag&#39;s github stats"></a></p>
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ani-Gil&amp;layout=compact" alt="Top Langs"></a></p>
