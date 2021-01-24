@@ -24,10 +24,12 @@
   <a href="https://www.microsoft.com"><img src="https://img.shields.io/badge/Windows Server-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/><br><br>
+  <a href="https://namu.wiki/w/Python"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+  <a href="https://namu.wiki/w/%EC%95%A4%EC%84%9C%EB%B8%94"><img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white"/></a>
+  <a href="https://namu.wiki/w/JSON"><img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white"/></a>
+  <a href="https://namu.wiki/w/C%EC%96%B8%EC%96%B4"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+  <a href="https://namu.wiki/w/C%2B%2B"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
+  <a href="https://namu.wiki/w/HTML5"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/><br><br></a>
 </p>
 
 ### <p align="center">Blogs and Social Pages</p>
