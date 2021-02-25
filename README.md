@@ -4,12 +4,12 @@
 ### <p align="center">😁 My Introduce! 😍</p>
 <p align="center"> 안녕하세요! 현재 광주금파공업고등학교의 3학년으로 재학중인 임시우라고 합니다.<br>
   IT네트워크시스템 및 클라우드컴퓨팅 기능반(동아리)팀장을 맏고 있습니다. 또한 <a href="https://mirror.anigil.com">리눅스 미러사이트</a>를 운영중입니다!<br>
-  미러사이트 관련한 내용은 관련 레포나 질문이 있다면 Facebook, Twitter로 연락주시면 언제든지 답변드리겠습니다!..<br>E-Mail : dlatldn426@gmail.com<br><br>
+  미러사이트 및 미러 레포에 관련한 내용의 질문이 있다면 Facebook, Twitter로 연락주시면 언제든지 답변드리겠습니다!..<br>E-Mail : dlatldn426@gmail.com<br><br>
 <p>
 
 ### <p align="center">The technology and programs I use 💻</p>
 <p align="center">
-  <a href="https://aws.amazon.com"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
+  <a href="https://aws.amazon.com"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=Amazon Web Services&logoColor=white"/></a>
   <a href="https://www.vmware.com"><img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white"/></a>
   <a href="https://visualstudio.microsoft.com"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
   <a href="https://www.cisco.com"><img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=Cisco&logoColor=white"/></a>
