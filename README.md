@@ -44,5 +44,3 @@
 <hr><br>
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Ani-Gil" alt="Anurag&#39;s github stats"></a></p>
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ani-Gil&amp;layout=compact" alt="Top Langs"></a></p>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmirror.anigil.com&count_bg=%230300FF&title_bg=%23FF00BA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
