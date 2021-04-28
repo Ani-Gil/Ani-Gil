@@ -2,7 +2,7 @@
 ![center_image](https://user-images.githubusercontent.com/62188180/105588933-ff250c00-5dd4-11eb-8ed4-ccf7e424b1ed.png)   
 ---
 ### <p align="center">😁 My Introduce! 😍</p>
-<p align="center"> 안녕하세요! 현재 광주금파공업고등학교의 3학년으로 재학중인 임시우라고 합니다.<br><p>
+<p align="center"> 안녕하세요! 광주 금파공업고등학교의 3학년에 재학 중인 임시우라고 합니다!<br><p>
 
 ### <p align="center">The technology and programs I use 💻</p>
 <p align="center">
