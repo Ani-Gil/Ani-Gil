@@ -1,7 +1,7 @@
 # Ani-Gil 🎈 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAni-Gil&count_bg=%23FF0000&title_bg=%23555555&icon=&icon_color=%23FF0000&title=HITS&edge_flat=true"/></a>
 ![center_image](https://user-images.githubusercontent.com/62188180/105588933-ff250c00-5dd4-11eb-8ed4-ccf7e424b1ed.png)   
 ---
-### <p align="center">😁 My Introduce! 😍</p>
+### <p align="center">😁 Who AM I? 😍</p>
 <p align="center">I'm a student who wants to be a DevOps engineer!<br><p>
 
 ### <p align="center">The technology and programs I use 💻</p>
@@ -31,11 +31,9 @@
 
 ### <p align="center">Blogs and Social Pages</p>
 <p align="center">
-  <a href="https://mirror.anigil.com"><img src="https://img.shields.io/badge/AniGil Linux Archive-3693F3?style=flat-square&logo=iCloud&logoColor=white"/></a>
-  <a href="https://blog.anigil.com"><img src="https://img.shields.io/badge/Blog(Tistory)-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
-  <a href="https://www.facebook.com/limsiwooo"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
-  <a href="https://twitter.com/AniGil_Mirror"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
-  <a href="https://www.instagram.com/siw00_lim"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="https://mirror.siwoo.org"><img src="https://img.shields.io/badge/Archive of Siwoo-3693F3?style=flat-square&logo=iCloud&logoColor=white"/></a>
+  <a href="https://blog.siwoo.org"><img src="https://img.shields.io/badge/Blog(Tistory)-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
+  <a href="https://www.instagram.com/see_w0o"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="https://open.kakao.com/me/anigil"><img src="https://img.shields.io/badge/Kakao Profile Chat-FFCD00?style=flat-square&logo=Kakao&logoColor=white"/></a><br><br>
 </p>
 <hr><br>
