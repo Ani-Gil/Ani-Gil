@@ -1,7 +1,7 @@
 # Ani-Gil 🎈 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAni-Gil&count_bg=%23FF0000&title_bg=%23555555&icon=&icon_color=%23FF0000&title=HITS&edge_flat=true"/></a>
 ![center_image](https://user-images.githubusercontent.com/62188180/105588933-ff250c00-5dd4-11eb-8ed4-ccf7e424b1ed.png)   
 ---
-### <p align="center">😁 Who AM I? 😍</p>
+### <p align="center">😁 WHO AM I? 😍</p>
 <p align="center">I'm a student who wants to be a DevOps engineer!<br><p>
 
 ### <p align="center">The technology and programs I use 💻</p>
