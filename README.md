@@ -32,9 +32,7 @@
 ### <p align="center">Blogs and Social Pages</p>
 <p align="center">
   <a href="https://mirror.siwoo.org"><img src="https://img.shields.io/badge/Archive of Siwoo-3693F3?style=flat-square&logo=iCloud&logoColor=white"/></a>
-  <a href="https://blog.siwoo.org"><img src="https://img.shields.io/badge/Blog(Tistory)-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
-  <a href="https://www.instagram.com/see_w0o"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="https://open.kakao.com/me/anigil"><img src="https://img.shields.io/badge/Kakao Profile Chat-FFCD00?style=flat-square&logo=Kakao&logoColor=white"/></a><br><br>
+  <a href="https://www.instagram.com/syu_._syu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
 <hr><br>
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Ani-Gil" alt="Anurag&#39;s github stats"></a></p>
